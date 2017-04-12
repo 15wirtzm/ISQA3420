@@ -1,0 +1,4 @@
+<!DOCTYPE html> <html> <body>
+<form action="uploader2.php" method="post" enctype="multipart/ form-data">    S$
+</body> </html>
+<?php $target_dir = "policy/"; $target_ﬁle = $target_dir . basename($_FILES["ﬁl$
